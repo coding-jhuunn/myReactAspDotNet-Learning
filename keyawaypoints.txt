@@ -1,0 +1,14 @@
+instrinsic elements
+
+dotnet watch run === nodemon
+
+props shorcut for publoch chichcu
+
+ctor shorcut for creating constructor
+
+
+
+dbset manipulating the whole table
+
+dotnet ef migrations add init
+dotnet ef database update   
